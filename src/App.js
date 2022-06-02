@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./App.css";
 import Header from "./Components/Layout/Header";
 import Meals from "./Components/Meals/Meals.js";
 import Cart from "./Components/Cart/Cart";
